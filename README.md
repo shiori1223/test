@@ -1,1 +1,1 @@
-Sub repository for practicing 
+Sub repository for practicing GitKraken
